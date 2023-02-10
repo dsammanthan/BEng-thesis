@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[46]:
-
-
 # Import our modules that we are using
 import matplotlib.pyplot as plt
 import numpy as np
@@ -35,16 +32,3 @@ plt.legend()
 
 # Show the plot
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
