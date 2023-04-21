@@ -33,8 +33,5 @@ plt.legend()
 plt.show()
 
 
-# In[ ]:
-
-
 
 
