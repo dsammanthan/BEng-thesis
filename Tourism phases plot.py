@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Import our modules that we are using
+# Importing packages
 import matplotlib.pyplot as plt
 import numpy as np
 
