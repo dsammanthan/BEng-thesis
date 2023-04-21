@@ -48,8 +48,4 @@ def FuelBurnCalculator():
 FuelBurnCalculator()
 
 
-# In[ ]:
-
-
-
 
