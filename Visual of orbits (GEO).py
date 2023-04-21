@@ -62,8 +62,6 @@ ax.set_zlim3d(XYZlim)
 plt.show()
 
 
-# In[ ]:
-
 
 
 
